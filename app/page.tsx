@@ -28,7 +28,7 @@ export default function Home() {
         <div className="flex items-center justify-center gap-10">
           <div className="">
             <Image
-              src="/img/JOIN.png"
+              src="/img/MVPVIVA_JOIN.png"
               width={300}
               height={300}
               alt="Join now"
