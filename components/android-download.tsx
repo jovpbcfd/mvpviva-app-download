@@ -52,7 +52,7 @@ export default function AndroidDownload() {
             </div>
             <div className="rounded-md mt-8">
               <Image
-                src="/img/play_button2.png"
+                src="/img/play_button_bangla.png"
                 width={0}
                 height={0}
                 sizes="100vw"
