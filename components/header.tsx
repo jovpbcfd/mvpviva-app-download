@@ -38,13 +38,13 @@ export default function Header() {
                             flex items-end md:items-center justify-center
                             "
               >
-                <Image
+{/*                 <Image
                   src="/img/ph.webp"
                   width={20}
                   height={20}
                   className="w-[30px] rounded-xs  md:w-[20px]"
                   alt="ph flag"
-                />
+                /> */}
                 <span className="ml-2 hidden md:block">English</span>
               </Link>
             </div>
