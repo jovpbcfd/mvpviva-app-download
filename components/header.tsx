@@ -30,7 +30,7 @@ export default function Header() {
               >
                 SIGNUP
               </Link> */}
-              <Link
+{/*               <Link
                 href="https://panalobet200.com/ph/tl"
                 className="md:bg-[linear-gradient(135deg,#3e4b7c_0%,#283151_100%)] md:px-4 md:py-2 md:rounded-md md:shadow-md text-center
                             md:transition-transform md:transform md:hover:scale-105 duration-300 w-full
@@ -38,15 +38,15 @@ export default function Header() {
                             flex items-end md:items-center justify-center
                             "
               >
-{/*                 <Image
+                <Image
                   src="/img/ph.webp"
                   width={20}
                   height={20}
                   className="w-[30px] rounded-xs  md:w-[20px]"
                   alt="ph flag"
-                /> */}
+                />
                 <span className="ml-2 hidden md:block">English</span>
-              </Link>
+              </Link> */}
             </div>
             {/* <button
               className="md:hidden text-white"
