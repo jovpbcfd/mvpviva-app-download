@@ -74,7 +74,7 @@ export default function Home() {
                 src="/img/new-ios-qr-code-2026-2.png"
                 width={300}
                 height={300}
-                alt="QR Android"
+                alt="QR ios"
                 className="mb-5 rounded-xl border-4 border-yellow-400"
               />
               <Link href="https://mvpviva.app/WQoeNp">
