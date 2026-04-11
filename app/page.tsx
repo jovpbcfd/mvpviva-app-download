@@ -58,9 +58,9 @@ export default function Home() {
                 alt="QR Android"
                 className="mb-5"
               />
-              <Link href="https://www.goglekhplaystore.com/3552958708/3552958708_download.html?index=TT9pVbeq&tplhx=1&link_id=L2508193655155921683980169410">
+              <Link href="https://mvpviva.app/DPlu4Q">
                 <Image
-                  src="/img/button_android2.png"
+                  src="/img/button_android2-2.png"
                   width={400}
                   height={130}
                   alt="Step 3"
@@ -71,7 +71,7 @@ export default function Home() {
             </div>
             <div className="flex flex-col items-center">
               <Image
-                src="/img/new-ios-qr-code-2026.png"
+                src="/img/new-ios-qr-code-2026-2.png"
                 width={300}
                 height={300}
                 alt="QR Android"
