@@ -52,7 +52,7 @@ export default function Home() {
           <div className="flex items-center justify-center mt-15 gap-10">
             <div className="flex flex-col items-center">
               <Image
-                src="/img/QR_Android.png"
+                src="/img/QR_Android-2.png"
                 width={300}
                 height={300}
                 alt="QR Android"
@@ -60,7 +60,7 @@ export default function Home() {
               />
               <Link href="https://mvpviva.app/DPlu4Q">
                 <Image
-                  src="/img/button_android2-2.png"
+                  src="/img/button_android2.png"
                   width={400}
                   height={130}
                   alt="Step 3"
