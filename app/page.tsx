@@ -56,7 +56,7 @@ export default function Home() {
                 width={300}
                 height={300}
                 alt="QR Android"
-                className="mb-5"
+                className="mb-5 rounded-xl border-4 border-yellow-400"
               />
               <Link href="https://mvpviva.app/DPlu4Q">
                 <Image
