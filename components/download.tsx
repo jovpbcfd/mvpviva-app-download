@@ -60,10 +60,11 @@ export default function Download() {
                     <span className="text-md text-balance">
                       Launch the Safari app on your IOS Device and go to
                       <Link
-                        href="https://pb888.me/NxZwdc"
+                      // https://pb888.me/NxZwdc
+                        href="https://mvpviva.app/MVPVIVAios"
                         className="block text-[#ffeb9e]"
                       >
-                        https://pb888.me/NxZwdc
+                        https://mvpviva.app/MVPVIVAios
                       </Link>
                     </span>
                   </h3>
@@ -137,7 +138,7 @@ export default function Download() {
               </div>
               <div className="pb-10">
                 <div className="mt-10 py-2 flex items-center justify-center border-y-1 border-gray-300/50">
-                  <p>MVPVIVA @ 2025 | All Rights Reserved.</p>
+                  <p>MVPVIVA @ 2026 | All Rights Reserved.</p>
                 </div>
               </div>
             </div>

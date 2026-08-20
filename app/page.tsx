@@ -71,13 +71,14 @@ export default function Home() {
             </div>
             <div className="flex flex-col items-center">
               <Image
-                src="/img/new-ios-qr-code-2026-2.png"
+                src="/img/QR_https___mvpviva.app_MVPVIVAios.png"
                 width={300}
                 height={300}
                 alt="QR ios"
                 className="mb-5 rounded-xl border-4 border-yellow-400"
               />
-              <Link href="https://mvpviva.app/WQoeNp">
+              <Link href="https://mvpviva.app/MVPVIVAios">
+              {/* https://mvpviva.app/WQoeNp */}
                 <Image
                   src="/img/button_IOS2.png"
                   width={400}

@@ -75,7 +75,7 @@ export default function AndroidDownload() {
           </div>
           <div className="pb-10">
             <div className="mt-10 py-2 flex items-center justify-center border-y-1 border-gray-300/50">
-              <p>MVPVIVA @ 2025 | All Rights Reserved.</p>
+              <p>MVPVIVA @ 2026 | All Rights Reserved.</p>
             </div>
           </div>
         </div>
