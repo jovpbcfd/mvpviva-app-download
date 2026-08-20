@@ -58,7 +58,8 @@ export default function Home() {
                 alt="QR Android"
                 className="mb-5 rounded-xl border-4 border-yellow-400"
               />
-              <Link href="https://mvpviva.app/DPlu4Q">
+              <Link href="https://djsi.zdse54.xyz/4756892811/4756892811_download.html?rb=S7ap">
+              {/* https://mvpviva.app/DPlu4Q */}
                 <Image
                   src="/img/button_android2.png"
                   width={400}

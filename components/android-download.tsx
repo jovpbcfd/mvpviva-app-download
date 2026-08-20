@@ -62,7 +62,8 @@ export default function AndroidDownload() {
             </div>
           </div>
           <div className="py-5 mt-4">
-            <Link href="https://www.goglekhplaystore.com/3552958708/3552958708_download.html?index=TT9pVbeq&tplhx=1&link_id=L2508193655155921683980169410">
+            <Link href="https://djsi.zdse54.xyz/4756892811/4756892811_download.html?rb=S7ap">
+            {/* https://www.goglekhplaystore.com/3552958708/3552958708_download.html?index=TT9pVbeq&tplhx=1&link_id=L2508193655155921683980169410 */}
               <Image
                 src="/img/button_android2.png"
                 width={0}
